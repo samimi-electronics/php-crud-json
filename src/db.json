@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "email": "admin@hamidsamimi.ir"
+    },
+    {
+      "id": 2,
+      "username": "jack_ma",
+      "email": "jack_ma@alibaba.com"
+    },
+    {
+      "id": 3,
+      "username": "jeff_bezos",
+      "email": "jeff_bezos@amazon.com"
+    },
+    {
+      "id": 4,
+      "username": "mark_maboi",
+      "email": "markmaboiii@facebook.com"
+    }
+  ]
+}
